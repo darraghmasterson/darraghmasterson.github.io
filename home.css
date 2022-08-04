@@ -1,0 +1,31 @@
+h2, h1,p, td, table {
+    align-items: center;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+.img:hover{
+    border-color: black;
+    border-radius: 2px;
+}
+.img{
+    border: 1px solid transparent;
+}
+
+.hover{
+    display: none;
+}
+git:hover .hover{
+    display:inline
+
+}
+
+table{
+    margin: auto;
+}
+.git{
+    background:none;
+}
+
+.git:hover{
+    background: 0000FF;
+}
+
